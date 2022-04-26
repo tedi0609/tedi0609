@@ -3,4 +3,4 @@ Currently working with Univercity Student, but I love learn new thing in program
     - 🔭 I’m currently Learning computer & Informatic  </br>
     - 🌱 I’m currently learning PHP,Python & Go </br>
     
-    https://tedi0609.github.io/portofolio.oi/
+   https://tedi0609.github.io/portofolio.io/
